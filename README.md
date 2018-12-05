@@ -12,3 +12,7 @@ Adaptetd from [Dr. Pleuri Pennings](https://github.com/pleunipennings/PlotNumWom
 ### Logic, Control Flow, and Filtering 
 [Jupyter notebook](Demo_Logic_Control_Flow_and_Filtering.ipynb)
 Demo by Vy Nguyen
+
+### Loops
+[Jupyter notebook](loops.ipynb)
+Demo by Zena Lapp
