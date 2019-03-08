@@ -20,4 +20,5 @@ Demo by Zena Lapp
 ### Plotting
 [Jupyter notebook] 
 Demo by Brooke Wolford
-Requires [install of jupyter](https://jupyter.org/install), preferabbly through anaconda
+Plan A: [Install jupyter](https://jupyter.org/install), preferabbly through anaconda
+Plan B: https://colab.research.google.com/github/GWC-DCMB/codeDemo/blob/master/python_plotting.ipynb
