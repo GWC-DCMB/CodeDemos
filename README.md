@@ -16,3 +16,7 @@ Demo by Vy Nguyen
 ### Loops
 [Jupyter notebook](loops.ipynb)
 Demo by Zena Lapp
+
+### Plotting
+[Jupyter notebook]
+Demo by Brooke Wolford
