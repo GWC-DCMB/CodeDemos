@@ -18,7 +18,7 @@ Demo by Vy Nguyen
 Demo by Zena Lapp
 
 ### Plotting
-[Jupyter notebook] 
+[Jupyter notebook](python_plotting.ipynb)  
 Demo by Brooke Wolford  
 Uses data from [538](https://github.com/fivethirtyeight/data/tree/master/historical-ncaa-forecasts)  
 Plan A: [Install jupyter](https://jupyter.org/install), preferabbly through anaconda  
