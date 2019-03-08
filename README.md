@@ -18,5 +18,6 @@ Demo by Vy Nguyen
 Demo by Zena Lapp
 
 ### Plotting
-[Jupyter notebook]
+[Jupyter notebook] 
 Demo by Brooke Wolford
+Requires [install of jupyter](https://jupyter.org/install), preferabbly through anaconda
