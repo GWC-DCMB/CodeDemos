@@ -19,8 +19,8 @@ Demo by Zena Lapp
 
 ### Plotting
 [Jupyter notebook](python_plotting.ipynb)  
-Demo by Brooke Wolford for [GSBES](https://gsbescommunications.wixsite.com/gsbes) 
+Demo by Brooke Wolford for [GSBES](https://gsbescommunications.wixsite.com/gsbes)  
 Uses data from [538](https://github.com/fivethirtyeight/data/tree/master/historical-ncaa-forecasts)  
-Option 1: [Install jupyter](https://jupyter.org/install), preferably through Anaconda  
+Option 1: [Install jupyter](https://jupyter.org/install), preferably through Anaconda   
 Option 2: Download [.csv](historical-538-ncaa-tournament-model-results.csv) and [.ipynb](python_plotting.ipynb) into a Google Drive folder. When you click on .ipynb, you will be prompted to open with a suggested third party app—Colaboratory. Please do so, and your jupyter notebook will launch. This allows us to run Python via a web browser, rather than on your computer. In the notebook we have noted where you will change the file path to match that of your own Google Drive! 
 
