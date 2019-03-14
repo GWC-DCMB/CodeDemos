@@ -21,5 +21,6 @@ Demo by Zena Lapp
 [Jupyter notebook](python_plotting.ipynb)  
 Demo by Brooke Wolford  
 Uses data from [538](https://github.com/fivethirtyeight/data/tree/master/historical-ncaa-forecasts)  
-Plan A: [Install jupyter](https://jupyter.org/install), preferabbly through anaconda  
-Plan B: https://colab.research.google.com/github/GWC-DCMB/codeDemo/blob/master/python_plotting.ipynb   
+Option 1: [Install jupyter](https://jupyter.org/install), preferabbly through anaconda  
+Option 2: Download .csv and .ipynb into a Google Drive folder. When you click on .ipynb, you will be prompted to open with a suggested third party app—Colaboratory. Please do so! In the document we have noted where you will change the file path to match that of your own Google Drive! 
+
