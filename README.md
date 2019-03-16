@@ -20,7 +20,7 @@ Demo by Zena Lapp
 ### Plotting
 Introductory lesson on Python programming including reading data into pandas and plotting with matplotlib.  
 Demo by Brooke Wolford for [GSBES](https://gsbescommunications.wixsite.com/gsbes)  
-Uses data from [datahub.io](https://datahub.io/collections/climate-change)
+Uses data from [datahub.io](https://datahub.io/collections/climate-change)  
 **Option 1**: Download [.csv](historical-538-ncaa-tournament-model-results.csv) and [.ipynb](python_plotting.ipynb) into a Google Drive folder. When you click on the .ipynb, you will be prompted to open with a suggested third party app—Colaboratory. Please do so, and your jupyter notebook will launch. This allows us to run Python via a web browser, rather than on your computer. In the notebook we have noted where you will change the file path to match that of your own Google Drive!  
 **Option 2**: [Install jupyter](https://jupyter.org/install), preferably through Anaconda. Download [.csv](historical-538-ncaa-tournament-model-results.csv) and [.ipynb](python_plotting.ipynb) onto your computer. Open a shell and type: `jupyter notebook`. This will start a Jupyter Notebook server and open your default web browser. You can navigate to the .ipynb like you would navigate through your computer's file system. The server runs locally on your machine only and does not use an internet connection.
 
