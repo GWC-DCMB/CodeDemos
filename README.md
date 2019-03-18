@@ -23,9 +23,9 @@ Demo by Vy Nguyen
 Demo by Zena Lapp
 
 ### Plotting
-Introductory lesson on Python programming including reading data into pandas and plotting with matplotlib.
-Demo by Brooke Wolford for [GSBES](https://gsbescommunications.wixsite.com/gsbes)
-Uses data from [datahub.io](https://datahub.io/collections/climate-change)
+Introductory lesson on Python programming including reading data into pandas and plotting with matplotlib.  
+Demo by Brooke Wolford for [GSBES](https://gsbescommunications.wixsite.com/gsbes)  
+Uses data from [datahub.io](https://datahub.io/collections/climate-change)  
 
 #### Usage instructions
 
