@@ -6,12 +6,12 @@ Demo by Marlena Duda
 
 ### Matplotlib & Pandas/Dictionaries
 * Women in Congress Data Set and python script
-[Code](NumWomenCongress.py) for use with interactive session  
+[Code](NumWomenCongress.py) for use with interactive session adapted from [Dr. Pleuri Pennings](https://github.com/pleunipennings/PlotNumWomenCongress) by Brooke Wolford
 [CSV](WomenCongress.csv) with data  
-Adapted from [Dr. Pleuri Pennings](https://github.com/pleunipennings/PlotNumWomenCongress) by Brooke Wolford
+
 
 * NCAA Men's Basketball data set and Jupyter notebook
-[Jupyter notebook]
+[Jupyter notebook] demo by Brooke Wolford
 [CSV](historical-538-ncaa-tournament-model-results.csv)
 
 ### Logic, Control Flow, and Filtering 
