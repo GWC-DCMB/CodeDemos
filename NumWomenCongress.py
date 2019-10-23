@@ -12,7 +12,7 @@ def get_data():
     list_years = [] #create an empty list to store years
     list_num =[] #create an empty list to store the number of women
     linenum=0 #create a variable to count the lines, 
-    with open("WomenCongress.csv") as file: #open the file with the data
+    with open("data/WomenCongress.csv") as file: #open the file with the data
         for line in file: #for each line
             data = line.split(",") #split the line at the commas (bc it is a csv file) 
             year = data[1][0:4] #take the first 4 characters from the second column as the year
@@ -36,7 +36,7 @@ plt.show() # show the plot
 import pandas as pd
 
 #CSV to data frame
-df=pd.read_csv("WomenCongress.csv")
+df=pd.read_csv("data/WomenCongress.csv")
 df.head()
 
 
