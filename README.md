@@ -8,7 +8,7 @@ Demo by Marlena Duda
 * Women in Congress Data Set and python script  
 - [Script](code/NumWomenCongress.py) for use with interactive session adapted from [Dr. Pleuri Pennings](https://github.com/pleunipennings/PlotNumWomenCongress) by Brooke Wolford  
 - [CSV](data/WomenCongress.csv) with data  
-- [Jupyter notebook](code/women_in_congress_exploration.ipynb) for dataset exploration  
+- [Jupyter notebook](code/women_in_congress_exploratory.ipynb) for dataset exploration  
 
 
 * NCAA Men's Basketball data set and Jupyter notebook
